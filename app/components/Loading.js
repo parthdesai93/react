@@ -18,7 +18,6 @@ var styles = {
 	}
 }
 
-
 var Loading = React.createClass({
 	propTypes: {
 		text: PropTypes.string,
